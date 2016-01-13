@@ -1,4 +1,4 @@
-# Raikou
+# raikou
 
 ![Raikou](http://randompokemon.com/sprites/animated/243.gif)
 
